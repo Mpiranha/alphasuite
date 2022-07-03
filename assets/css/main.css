@@ -113,7 +113,8 @@ html, body {
 }
 
 .workspace-box {
-    background: linear-gradient(to right, var(--primary-color) 71%, #FFF 134%, var(--primary-color) 211%);
+    /* background: linear-gradient(to right, var(--primary-color) 71%, #FFF 134%, var(--primary-color) 211%); */
+    background: linear-gradient(to right, #6728ac, #6728ac6b);
     height: 150px;
     display: flex;
     justify-content: center;
