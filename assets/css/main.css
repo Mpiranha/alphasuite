@@ -30,7 +30,7 @@ html, body {
 }
 
 .logo {
-    width: 180px;
+    width: 300px;
 }
 
 
@@ -161,9 +161,10 @@ html, body {
 }
 
 .bg-texture {
-    background-image: url("../images/13167.png");
+    background-image: url("../images/grade.png");
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: 0 0;
 }
 
 .inner-flex {
